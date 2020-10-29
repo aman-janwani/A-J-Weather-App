@@ -13,14 +13,4 @@ body{
   width: 100px;
   margin-bottom: -50px;
 }
-.daysunny{
-  background: url("img/daysunny.jpg") no-repeat center center fixed;
-  -webkit-background-size: cover;
-    background-size: cover;
-}
 
-.daywinter{
-  background: url("img/daywinter.jpg") no-repeat center center fixed;
-  -webkit-background-size: cover;
-    background-size: cover;
-}
