@@ -6,6 +6,7 @@ body{
 .container{
   max-width: 400px;
   bottom: 100px;
+  margi-bottom: 100px;
 }
 .icon{
   position: relative;
